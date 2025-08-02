@@ -84,7 +84,7 @@ npm run dev     # Start with nodemon
 npm test        # Run test cases
 ~~~
 ## 👥 Contributors
-![Profile Image](image4.png)
+![alt text](image-2.png)
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 ~~~code
